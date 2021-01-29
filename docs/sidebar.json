@@ -1,6 +1,7 @@
 {
   "datofi": {
     "Overview": "/",
-    "datofi": "core.html"
+    "datofi": "core.html",
+    "Extend pandas ": "extend_pandas.html"
   }
 }

@@ -12,6 +12,9 @@ entries:
     - output: web,pdf
       title: datofi
       url: core.html
+    - output: web,pdf
+      title: 'Extend pandas '
+      url: extend_pandas.html
     output: web
     title: datofi
   output: web
